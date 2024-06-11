@@ -8,6 +8,8 @@
 ## Local setup
 
 ### Navigate to directory where project is cloned and run following command
+```docker-compose -f LibraryApp/docker-compose.yml -p libraryapp up -d --wait```
+#### After initial build of containers, to start again all containers, run
 ```docker-compose -f LibraryApp/docker-compose.yml -p libraryapp up -d```
 
 ### Create Superuser and fill required data
