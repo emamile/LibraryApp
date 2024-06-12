@@ -1,0 +1,42 @@
+[
+  {
+    "model": "djangoApp.author",
+    "pk": 1,
+    "fields": {
+      "name": "Agatha Christie",
+      "birth_date": "1890-01-12"
+    }
+  },
+  {
+    "model": "djangoApp.author",
+    "pk": 2,
+    "fields": {
+      "name": "Danielle Steel",
+      "birth_date": "1947-08-14"
+    }
+  },
+  {
+    "model": "djangoApp.author",
+    "pk": 3,
+    "fields": {
+      "name": "Harold Robbins",
+      "birth_date": "1916-05-21"
+    }
+  },
+  {
+    "model": "djangoApp.author",
+    "pk": 4,
+    "fields": {
+      "name": "J. K. Rowling",
+      "birth_date": "1965-07-31"
+    }
+  },
+  {
+    "model": "djangoApp.author",
+    "pk": 5,
+    "fields": {
+      "name": "Dr. Seuss",
+      "birth_date": "1904-03-02"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "model": "djangoApp.book",
+    "pk": 1,
+    "fields": {
+      "title": "Murder on the Orient Express",
+      "description": "Murder on the Orient Express is a work of detective fiction by English writer Agatha Christie featuring the Belgian detective Hercule Poirot.",
+      "published_date": "1934-01-01",
+      "author": 1
+    }
+  },
+  {
+    "model": "djangoApp.book",
+    "pk": 2,
+    "fields": {
+      "title": "Death on the Nile",
+      "description": "Death on the Nile is a work of detective fiction by British writer Agatha Christie, published in the UK by the Collins Crime Club on 1 November 1937 [1] and in the US by Dodd, Mead and Company the following year.",
+      "published_date": "1937-11-01",
+      "author": 1
+    }
+  },
+  {
+    "model": "djangoApp.book",
+    "pk": 3,
+    "fields": {
+      "title": "Crooked House",
+      "description": "Crooked House is a work of detective fiction by Agatha Christie first published in the US by Dodd, Mead and Company in March 1949[1] and in the UK by the Collins Crime Club on 23 May of the same year.",
+      "published_date": "1949-03-01",
+      "author": 1
+    }
+  },
+  {
+    "model": "djangoApp.book",
+    "pk": 4,
+    "fields": {
+      "title": "Only the Brave",
+      "description": "A powerful new novel from Danielle Steel, whose countless #1 New York Times bestselling novels have made her one of America’s favorite storytellers.",
+      "published_date": "2024-04-30",
+      "author": 2
+    }
+  },
+  {
+    "model": "djangoApp.book",
+    "pk": 5,
+    "fields": {
+      "title": "The Pirate",
+      "description": "Unaware of his true heritage, a man who was raised by a wealthy Arab family learns that power and fortune are not the only reasons for living.",
+      "published_date": "1974-01-01",
+      "author": 3
+    }
+  },
+  {
+    "model": "djangoApp.book",
+    "pk": 6,
+    "fields": {
+      "title": "79 Park Avenue",
+      "description": "Marja starts out a tough girl from the mean streets of New York. Ambitious and driven, over time she rises from street urchin to stripper, later re-inventing herself as Maryann Flood, the queen of an empire of pleasure.",
+      "published_date": "1978-03-03",
+      "author": 3
+    }
+  }
+]
